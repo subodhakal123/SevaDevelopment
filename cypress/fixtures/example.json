@@ -1,0 +1,63 @@
+{"user":[
+  {
+  "gender": "Male",
+  "date": "2",
+  "month": "June",
+  "year": "1999",
+  "firstname": "subodh",
+  "lastname": "dhakal",
+  "email": "subodh345@gmail.com",
+  "company": "seva development",
+  "password": "123456",
+  "confirmpassword": "123456"
+  },
+  {
+    "gender": "Male",
+    "date": "3",
+    "month": "July",
+    "year": "1998",
+    "firstname": "jeevan",
+    "lastname": "dahal",
+    "email": "subodh35@gmail.com",
+    "company": "Reva development",
+    "password": "123456",
+    "confirmpassword": "123456"
+  },
+  {
+    "gender": "Female",
+    "date": "4",
+    "month": "May",
+    "year": "1995",
+    "firstname": "Swati",
+    "lastname": "paudel",
+    "email": "subodh3@gmail.com",
+    "company": "Reva System development",
+    "password": "123456",
+    "confirmpassword": "123456"
+  },
+  {
+    "gender": "Female",
+    "date": "10",
+    "month": "January",
+    "year": "2002",
+    "firstname": "arun",
+    "lastname": "khanal",
+    "email": "subodh535@gmail.com",
+    "company": "Esewa",
+    "password": "123456",
+    "confirmpassword": "123456"
+  },
+  {
+    "gender": "Male",
+    "date": "20",
+    "month": "August",
+    "year": "1992",
+    "firstname": "Hari",
+    "lastname": "dahal",
+    "email": "subod4h375@gmail.com",
+    "company": "Google development",
+    "password": "123456",
+    "confirmpassword": "123456"
+  }
+]
+}

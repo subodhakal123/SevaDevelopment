@@ -1,0 +1,17 @@
+[
+	{
+		"gender": "Male",
+		"date": "2",
+		"month": "June",
+		"year": "1996",
+		"firstname": "subodh",
+		"lastname": "dhakal",
+		"email": "subodh345@gmail.com",
+		"company": "seva",
+		"password": "123456",
+		"confirmpassword": "123456"
+	},
+	{
+		"gender": ""
+	}
+]
